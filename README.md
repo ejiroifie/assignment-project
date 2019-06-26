@@ -1,11 +1,11 @@
 ### To Do  
 
-[] Create a  web page with the following items  
-[] A nav bar with > Home, About, contact, Blog   
-[] Navbar should be red in background and font color should be white    
-[] No bootstrap required for now    
+[x] Create a  web page with the following items  
+[x] A nav bar with > Home, About, contact, Blog   
+[x]] Navbar should be red in background and font color should be white    
+[x] No bootstrap required for now    
 [] Navbar should have active tab with different color (white color for example)    
-[] Below Navbar, write three paragraph with random text, paragraphs should have headings  
+[x] Below Navbar, write three paragraph with random text, paragraphs should have headings  
 [] Below three paonragraphs, a form with random text, paragraphs should have headings    
 [] Below  input fields, four buttons named +,-,/, *  
 [] Depending on which button user clicks, show result right below buttons  
