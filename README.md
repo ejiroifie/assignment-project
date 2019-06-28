@@ -6,8 +6,8 @@
 [x] No bootstrap required for now    
 [] Navbar should have active tab with different color (white color for example)    
 [x] Below Navbar, write three paragraph with random text, paragraphs should have headings  
-[] Below three paonragraphs, a form with random text, paragraphs should have headings    
-[] Below  input fields, four buttons named +,-,/, *  
+[x] Below three paonragraphs, a form with random text, paragraphs should have headings    
+[x] Below  input fields, four buttons named +,-,/, *  
 [] Depending on which button user clicks, show result right below buttons  
 [] Project can be completed with simple HTML,CSS and Javascript Knowledg. Don't worry if not able to achieve all objective  
 [] It's good idea to explore w3schools for html, css and Javascript topics before beginning projects    
