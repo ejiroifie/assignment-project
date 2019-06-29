@@ -72,31 +72,19 @@
       </form>
     </div> -->
 
-      <form> 
-      Enter number : <input type="text" id="first" maxlength="4"/ size="4"><br> 
-      Enter second num : <input type="text" id="second" maxlength="4" size="4" />
-      <br><br>
-      <input type="button" onClick="AdditionBy()" Value="+" 
-      title="Click here to find the sum of the two numbers." />  
-      <input type="button" onClick="SubtractionBy()" 
-      title="Click here to find the differece of the two numbers." 
-      Value="-" /> 
-      <input type ="button" onClick ="Multiplication()" Value ="*"  title="Click here to find the sum of the two numbers." /> 
-      <input type ="button" onClick ="Multiplication()" Value ="/"  title="Click here to find the sum of the two numbers." />
-      </form> <br><br>
+     
+    <form>
+      Enter first num : <input type="text" id="firstNumber" /><br>
+      Enter 2nd Number: <input type="text" id="secondNumber" /><br>
+      <input type="button" onClick="mult()" Value="Multiply" /> 
+    </form>
 
-      <script>
-        
-        function multiply ()  {
-        num1 = document.getElementById("firstNumber").value;
-        num2 = document.getElementById("secondNumber").value;
-        document.getElementById("result").innerHTML = num1 * num2;
-        }
-        
-      </script>
+    <p>The Result is : <br>
+    <span id = "result"></span>
 
 
-
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    
 
 </body>
 </html>

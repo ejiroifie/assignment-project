@@ -13,3 +13,7 @@
 [] It's good idea to explore w3schools for html, css and Javascript topics before beginning projects    
 [] Given projects like this , you can simply search html,javscript calculator aand learn from those examplesa  
 [] Basic idea is to find readymade solution from somewhere on the internet and integrate it in our project. But, for sure, try to develop first on your own before finding on internet  
+
+
+
+// tips -review w3 school to work on function and how to ouput number
